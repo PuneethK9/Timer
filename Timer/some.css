@@ -22,21 +22,6 @@ button:hover
     display: none;
 }
 
-#dot1
-{
-    position: absolute;
-    left: 487px;
-    font-size: 160px;
-    color: white;
-}
-#dot2
-{
-    position: absolute;
-    left: 888px;
-    font-size: 160px;
-    color: white;
-}
-
 button
 {
     border-color: grey;
